@@ -6,4 +6,4 @@ Paying it forward is best measured in cups. :coffee:
 
 ## Copyright and License
 
-Work copyright 2018 [Austin Pabian](https://austinpabian.design).
+Work &copy;2018 [Austin Pabian](https://austinpabian.design).
